@@ -51,7 +51,5 @@ pip install ultralytics opencv-python torch
 - The script displays a video window with detected vehicles, their IDs, and a red counting line.
 - Vehicle counts by class are stored in the `class_counts` dictionary.
 
-## License
 
-This project is for educational purposes. Refer to the YOLO and Ultralytics licenses for model and library usage.
 
